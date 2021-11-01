@@ -5,5 +5,10 @@
 
 добавить для отслеживания все ф. в каталоге - git add .
 добавить для отслеживания  файл в каталоге - git add index.html
-фиксация изменений с коментарием например "first comit"- git comit -m "first comit"
-создать файл .gitignore
+фиксация изменений с коментарием например "first comit"- git commit -m "first comit"
+создать файл .gitignore - построчно прописываются файлы и папки (дополнительно если они подключены
+ их надо выгрузить командой -  " git rm --cfched img/ -r " )
+
+git remote add origin https://github.com/kirov-sk/kotovasya1.git
+ 
+git push -u origin maser
