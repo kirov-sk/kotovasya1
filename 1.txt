@@ -12,3 +12,9 @@
 git remote add origin https://github.com/kirov-sk/kotovasya1.git
  
 git push -u origin maser
+
+перс токен на github
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+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
+
+https://kirov-sk.github.io/kotovasya1/
